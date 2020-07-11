@@ -1,1 +1,0 @@
-export default () => <p>Up and running!</p>
